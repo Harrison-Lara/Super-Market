@@ -1,0 +1,8 @@
+54321 Television
+250
+46782 Laptop
+1200
+23461 Ipad
+500
+87612 Playstation
+400
